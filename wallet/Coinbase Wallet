@@ -1,0 +1,6 @@
+App = wallet.coinbase.com
+
+ETH.receive = 0x39ac580865cC67bb2ec4e04385f9dc3c462B511b
+
+pool = https://eth.nanopool.org/account/0x39ac580865cc67bb2ec4e04385f9dc3c462b511b
+
